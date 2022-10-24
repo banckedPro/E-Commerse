@@ -1,0 +1,19 @@
+.sidebar{
+    border-radius: 0.5rem;
+    background-color: aqua;
+    font-family: 'Inter', sans-serif;
+}
+
+.sidebar ul{
+    padding: 0px;
+    list-style: none;
+}
+
+.sidebar li{
+    padding: 2rem;
+}
+
+.active{
+    background-color: rgb(5, 5, 5);
+    color: white;
+}

@@ -1,0 +1,9 @@
+.holder {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  justify-content: center;
+  margin: 0 5rem;
+  box-sizing: border-box;
+}

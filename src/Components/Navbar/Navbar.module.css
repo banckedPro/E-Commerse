@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 10rem;
+  font-family: 'Inter', sans-serif;
+  background-color: rgb(240, 240, 240);
+}
+
+.navbar h1 {
+  font-size: 2.5rem;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+}
+
+.navbar ul {
+  padding: 0px;
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul li {
+  margin: 1rem;
+}
+
+.navbar a {
+  margin: 0px;
+}

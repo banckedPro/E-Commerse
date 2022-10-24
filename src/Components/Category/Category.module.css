@@ -1,0 +1,31 @@
+.category {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  justify-content: start;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  margin: 2rem 3rem;
+  padding: 1rem;
+  background-color: rgb(214, 213, 213);
+  border-radius: 10px;
+  transition: 0.6s ease-in-out;
+}
+
+.category:hover {
+  transform: scale(1.2);
+}
+
+.category h1 {
+  margin: 2rem;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.category img {
+  height: 200px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 0px;
+}

@@ -1,0 +1,9 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.App {
+  margin: 0%;
+  display: flex;
+  flex-direction: column;
+}
